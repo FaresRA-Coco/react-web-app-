@@ -1,16 +1,58 @@
-<<<<<<< HEAD
-# React + Vite
+🌐 Personal Portfolio — Fares Abu Ras
+Welcome to the source code of my personal portfolio — a modern, responsive, and fast web experience built to showcase my work, skills, and journey as a Data Analyst and Tech Professional.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+👉 Live Website:  
+http://cocofares.s3-website.eu-north-1.amazonaws.com/
 
-Currently, two official plugins are available:
+✨ About This Project
+This portfolio reflects who I am: analytical, creative, and committed to building meaningful digital experiences.
+It highlights my professional background, technical expertise, and the projects that shaped my growth in data analytics, business intelligence, and cloud technologies.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The website is fully responsive, lightweight, and optimized for a smooth user experience across all devices.
 
-## Expanding the ESLint configuration
+🚀 Features
+Modern UI/UX with a clean and elegant layout
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# react-web-app-
->>>>>>> 694b9b30dac06104bb538c0c495627f127e22c7a
+Fully responsive design for desktop, tablet, and mobile
+
+Project showcase with clear descriptions and visuals
+
+About Me section highlighting my background and skills
+
+Contact section for easy communication
+
+Fast loading thanks to optimized assets and AWS S3 hosting
+
+🛠️ Tech Stack
+Category	Technologies
+Frontend	React.js, JavaScript, HTML5, CSS3
+Deployment	AWS S3 Static Website Hosting
+Tools	VS Code, Git, GitHub
+📁 Project Structure
+Code
+react-web-app-/
+│── public/
+│── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   └── App.js
+│── package.json
+│── README.md
+🌟 Purpose
+This portfolio is more than a website — it’s a personal brand.
+It represents my:
+
+Professional identity
+
+Technical capabilities
+
+Passion for data, analytics, and problem‑solving
+
+Commitment to continuous learning
+
+📬 Contact
+If you'd like to connect, collaborate, or discuss opportunities, feel free to reach out.
+
+Email: faresraburas@outlook.de
+GitHub: https://github.com/FaresRA-Coco (github.com in Bing)
