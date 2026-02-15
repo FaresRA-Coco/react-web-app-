@@ -6,7 +6,13 @@ http://cocofares.s3-website.eu-north-1.amazonaws.com/
 
 ✨ About This Project
 This portfolio reflects who I am: analytical, creative, and committed to building meaningful digital experiences.
-It highlights my professional background, technical expertise, and the projects that shaped my growth in data analytics, business intelligence, and cloud technologies.
+It highlights my professional background, technical expertise, and the projects that shaped my growth in:
+
+Data Analytics
+
+Business Intelligence
+
+Cloud Technologies
 
 The website is fully responsive, lightweight, and optimized for a smooth user experience across all devices.
 
@@ -55,4 +61,4 @@ Commitment to continuous learning
 If you'd like to connect, collaborate, or discuss opportunities, feel free to reach out.
 
 Email: faresraburas@outlook.de
-GitHub: https://github.com/FaresRA-Coco (github.com in Bing)
+GitHub: https://github.com/FaresRA-Coco
